@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">MiniApp</string>
+    <string name="app_title">Welcome to</string>
+    <string name="app_title2">HanaDulSet</string>
+    <string name="app_username">Username</string>
+    <string name="app_password">Password</string>
+    <string name="app_login">Login Now</string>
+    <string name="app_forgetPassword">Forget Password?</string>
+    <string name="app_donthaveanAccount">Don\'t have an account? Sign Up</string>
+    <string name="app_welcome">Welcome</string>
+    <string name="app_description">Learn Korean - Your Gateway to Korean Language</string>
+    <string name="app_logintoyouraccount">LOGIN</string>
+    <string name="app_welcome2">Welcome Back</string>
+    <string name="app_welcomeName">Mary Claire</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="vocabs">Vocabs</string>
+    <string name="phrases">Phrases</string>
+    <string name="numbers">Numbers</string>
+    <string name="alphabet">Alphabets</string>
+    <string name="alphabet2">Alphabets</string>
+    <string name="vocabs2">Vocabularies</string>
+    <string name="About">About</string>
+    <string name="Back">Back</string>
+    <string name="unit">Counting Unit/단위:</string>
+    <string name="sentence">Counting Unit/단위:</string>
+    <string name="AboutDev">About the Developer and the App</string>
+    <string name="AboutDesc">Welcome to the Korean Language Learning App! Designed by Mary Claire Capili, this app is the perfect tool for those interested in mastering the Korean language.
+        \n\n Mary Claire Capili is a talented mobile developer with a passion for creating engaging and educational applications. With expertise in app development and a strong background in language learning, she has designed a remarkable app specifically tailored for those who want to learn the Korean language.
+        \n\n Get ready to embark on an exciting linguistic adventure with the Korean Language Learning App, developed by Mary Claire Capili. Start your journey today and witness your Korean language skills flourish like never before!</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

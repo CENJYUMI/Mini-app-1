@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menuVocabs"
+        android:icon="@drawable/baseline_menu_book_24"
+        android:title="@string/vocabs" />
+    <item
+        android:id="@+id/menuPhrases"
+        android:icon="@drawable/baseline_library_books_24"
+        android:title="@string/phrases" />
+    <item
+        android:id="@+id/menuAlphabets"
+        android:icon="@drawable/baseline_abc_24"
+        android:title="@string/alphabet" />
+    <item
+        android:id="@+id/menuNum"
+        android:icon="@drawable/baseline_123_24"
+        android:title="@string/numbers" />
+</menu>
